@@ -463,3 +463,5 @@ while True:
                     send_message(chat_id, "Правила: победи дракона, используя скиллы героев.")
                 elif data == "exit":
                     send_message(chat_id, "Игра завершена.")
+
+                    # КОД ОЧЕНЬ СЫРОЙ ДОДЕЛЫВАТЬ НЕТ ВРЕМЕНИ ПРОВЕРКА Git hub
